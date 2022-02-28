@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruizr
 - 👀 I’m interested in python, c#, data transformation and process optimization (faster or less code)
-- 🌱 I’m currently learning python and machine learning modules
-- 💞️ I’m looking to collaborate on any project that work with data transformation and machine learning concepts
+- 🌱 I’m always learning python and machine learning modules
+- 💞️ I’m looking to collaborate on any project that I can help
 - 📫 How to reach me: rodrigo.ruiz.rr|at|gmail.com or https://www.linkedin.com/in/jrruiz/
 
 <!---
